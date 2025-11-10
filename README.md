@@ -39,6 +39,7 @@
 `echo "Hello World";` hanya akan tampil jika PHP berhasil dieksekusi
 oleh server.
 
+<img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/761ec147-0835-48f2-a353-4559fe25e41a" />
 ------------------------------------------------------------------------
 
 ### ✅ **Step 2 -- Form Input Nama**
@@ -59,6 +60,7 @@ if(isset($_POST['nama'])) {
 
 **Tujuan:** Membuat form input nama dan menampilkan hasil input.
 
+<img width="1920" height="1080" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/15df392e-4155-4631-9f0c-4313155c4fa3" />
 ------------------------------------------------------------------------
 
 ### ✅ **Step 3 -- Menampilkan Nama Setelah Submit**
@@ -75,6 +77,7 @@ if(isset($_POST['kirim'])) {
 **Tujuan:** Menampilkan nama hanya setelah tombol submit ditekan
 (`isset`).
 
+<img width="1920" height="1080" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/314dcb65-1e5f-4323-b4ce-a38c77ceb951" />
 ------------------------------------------------------------------------
 
 ### ✅ **Step 4 -- Input Tanggal Lahir**
@@ -95,6 +98,7 @@ if(isset($_POST['kirim'])) {
 
 **Tujuan:** Menambahkan input tanggal dengan format `YYYY-MM-DD`.
 
+<img width="1920" height="1080" alt="Screenshot (157)" src="https://github.com/user-attachments/assets/76b8db57-b0cf-402c-b58c-42ea1668d858" />
 ------------------------------------------------------------------------
 
 ### ✅ **Step 5 -- Input Pekerjaan (Dropdown)**
@@ -120,6 +124,7 @@ if(isset($_POST['kirim'])) {
 
 **Tujuan:** Mengambil data dari dropdown menggunakan `$_POST`.
 
+<img width="1920" height="1080" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/06cba89a-03f0-4e92-bdf6-b244693a7d7b" />
 ------------------------------------------------------------------------
 
 ### ✅ **Step 6 -- Menghitung Umur**
@@ -145,6 +150,7 @@ if(isset($_POST['kirim'])) {
 
 **Tujuan:** Menghitung usia dengan `DateTime()` dan `diff()`.
 
+<img width="1920" height="1080" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/401c407f-908e-4a3d-aa7b-66c6e485133d" />
 ------------------------------------------------------------------------
 
 ### ✅ **Step 7 -- Menentukan Gaji Berdasarkan Pekerjaan**
@@ -179,6 +185,7 @@ if(isset($_POST['kirim'])) {
 
 **Tujuan:** Menentukan gaji menggunakan `switch case`.
 
+<img width="1920" height="1080" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/3fd988c3-5ce8-4a24-9172-e0e704b32440" />
 ------------------------------------------------------------------------
 
 ## ✅ Kesimpulan
