@@ -1,4 +1,5 @@
-# 📘 Praktikum 6 -- PHP Dasar
+
+# Praktikum 6 -- PHP Dasar
 
 **Nama** : Rafli Dhiya Fadhaly\
 **NIM** : 312410251\
@@ -8,7 +9,7 @@
 
 ------------------------------------------------------------------------
 
-## 🎯 Tujuan Praktikum
+## Tujuan Praktikum
 
 1.  Memahami konsep dasar *Server Side Scripting*
 2.  Memahami dasar pemrograman PHP
@@ -18,11 +19,11 @@
 
 ------------------------------------------------------------------------
 
-## 🚀 Langkah Praktikum
+## Langkah Praktikum
 
 ------------------------------------------------------------------------
 
-### ✅ **Step 1 -- Hello World**
+### **Step 1 -- Hello World**
 
 ``` php
 <!DOCTYPE html>
@@ -42,7 +43,7 @@ oleh server.
 <img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/761ec147-0835-48f2-a353-4559fe25e41a" />
 ------------------------------------------------------------------------
 
-### ✅ **Step 2 -- Form Input Nama**
+### **Step 2 -- Form Input Nama**
 
 ``` php
 <form method="post">
@@ -63,7 +64,7 @@ if(isset($_POST['nama'])) {
 <img width="1920" height="1080" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/15df392e-4155-4631-9f0c-4313155c4fa3" />
 ------------------------------------------------------------------------
 
-### ✅ **Step 3 -- Menampilkan Nama Setelah Submit**
+### **Step 3 -- Menampilkan Nama Setelah Submit**
 
 ``` php
 <?php
@@ -80,7 +81,7 @@ if(isset($_POST['kirim'])) {
 <img width="1920" height="1080" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/314dcb65-1e5f-4323-b4ce-a38c77ceb951" />
 ------------------------------------------------------------------------
 
-### ✅ **Step 4 -- Input Tanggal Lahir**
+### **Step 4 -- Input Tanggal Lahir**
 
 ``` php
 <form method="post">
@@ -101,7 +102,7 @@ if(isset($_POST['kirim'])) {
 <img width="1920" height="1080" alt="Screenshot (157)" src="https://github.com/user-attachments/assets/76b8db57-b0cf-402c-b58c-42ea1668d858" />
 ------------------------------------------------------------------------
 
-### ✅ **Step 5 -- Input Pekerjaan (Dropdown)**
+### **Step 5 -- Input Pekerjaan (Dropdown)**
 
 ``` php
 <form method="post">
@@ -127,7 +128,7 @@ if(isset($_POST['kirim'])) {
 <img width="1920" height="1080" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/06cba89a-03f0-4e92-bdf6-b244693a7d7b" />
 ------------------------------------------------------------------------
 
-### ✅ **Step 6 -- Menghitung Umur**
+### **Step 6 -- Menghitung Umur**
 
 ``` php
 <form method="post">
@@ -153,7 +154,7 @@ if(isset($_POST['kirim'])) {
 <img width="1920" height="1080" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/401c407f-908e-4a3d-aa7b-66c6e485133d" />
 ------------------------------------------------------------------------
 
-### ✅ **Step 7 -- Menentukan Gaji Berdasarkan Pekerjaan**
+### **Step 7 -- Menentukan Gaji Berdasarkan Pekerjaan**
 
 ``` php
 <form method="post">
@@ -188,7 +189,7 @@ if(isset($_POST['kirim'])) {
 <img width="1920" height="1080" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/3fd988c3-5ce8-4a24-9172-e0e704b32440" />
 ------------------------------------------------------------------------
 
-## ✅ Kesimpulan
+## Kesimpulan
 
 -   PHP mampu memproses data form menggunakan `$_POST`
 -   `DateTime()` memudahkan perhitungan waktu seperti umur
